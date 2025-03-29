@@ -1,4 +1,4 @@
-LOAD DATA LOCAL INFILE'C:/Users/pirut/Desktop/Day 02/Path link/day2.csv'
+LOAD DATA LOCAL INFILE'C:/Users/naleer/Desktop/Day 02/Path link/day2.csv'
 INTO TABLE students
 FIELDS TERMINATED BY'\,'
 LINES TERMINATED BY'\n'
